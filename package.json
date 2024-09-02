@@ -1,0 +1,16 @@
+{
+  "name": "com.aftertime.googlesheetsloader",
+  "version": "0.0.4",
+  "displayName": "GoogleSheetsLoader",
+  "description": "GoogleSheetsLoader",
+  "documentationUrl": "https://gamsyu.notion.site/GoogleSheetsLoader-a840fbbf449041c78cd4025b709d5db1?pvs=4",
+  "dependencies": {
+  },
+  "unity": "2022.3",
+  "keywords": [],
+  "author": {
+    "name": "Jaeho Choi",
+    "email": "chlwogh045@naver.com",
+    "url": ""
+  }
+}
