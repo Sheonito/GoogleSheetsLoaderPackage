@@ -26,7 +26,7 @@
 
 ## Getting started
   ### 1. Installation <br>
-      https://github.com/Sheonito/GoogleSheetsLoaderPackage.git <br>
+    https://github.com/Sheonito/GoogleSheetsLoaderPackage.git
   - Unity -> Window -> PackageManager -> Add package from git URL > Add https://github.com/Sheonito/GoogleSheetsLoaderPackage.git
         
   ### 2. Open and Load
