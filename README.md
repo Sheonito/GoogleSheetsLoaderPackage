@@ -3,10 +3,8 @@
 <details>
   <summary>Editor</summary>
 
-  [파일 1](Scripts/GoogleSheetEditor.cs) <br><br>
-  [파일 2](./path/to/file2)
-
-  <summary>Runtime</summary>
+  <summary>GoogleSheetEditor(Scripts/GoogleSheetEditor.cs) <br><br>
+  <summary>GoogleSheetEditor(Scripts/GoogleSheetDataContainer.cs) <br><br>
 
 </details>
 
