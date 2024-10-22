@@ -14,6 +14,10 @@
   1. Set uid
   2. Add gid
   3. Load
+
+  ### 3. Settings
+  - If you want to change the setting, you can change at setting menu
+  ![Setting](https://github.com/user-attachments/assets/86a8548a-1923-4529-b8ae-b50ed1178e31)
         
 ## Code
 <details>
