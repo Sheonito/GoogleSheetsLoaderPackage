@@ -23,3 +23,4 @@
 </details>
 
 ## Installation
+  - Window -> PackageManager -> Add package from git URL > Add https://github.com/Sheonito/GoogleSheetsLoaderPackage.git
