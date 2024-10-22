@@ -3,7 +3,7 @@
 <details>
   <summary>Editor</summary>
 
-  &nbsp;&nbsp;&nbsp;&nbsp; - [GoogleSheetEditor](Scripts/GoogleSheetEditor.cs) 테스트 <br><br>
+  - [GoogleSheetEditor](Scripts/GoogleSheetEditor.cs) 테스트 <br><br>
   &nbsp;&nbsp;&nbsp;&nbsp; - [GoogleSheetDataContainer](Scripts/GoogleSheetDataContainer.cs) <br><br>
   &nbsp;&nbsp;&nbsp;&nbsp; - [GoogleSheetResponse](Scripts/GoogleSheetResponse.cs) <br><br>
   &nbsp;&nbsp;&nbsp;&nbsp; [GoogleSheetDefine](Scripts/GoogleSheetDefine.cs)
