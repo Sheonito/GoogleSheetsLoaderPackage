@@ -3,8 +3,8 @@
 <details>
   <summary>Editor</summary>
 
-  GoogleSheetEditor(Scripts/GoogleSheetEditor.cs) <br><br>
-  GoogleSheetEditor(Scripts/GoogleSheetDataContainer.cs) <br><br>
+  [GoogleSheetEditor](Scripts/GoogleSheetEditor.cs) <br><br>
+  [GoogleSheetEditor](Scripts/GoogleSheetDataContainer.cs) <br><br>
 
 </details>
 
