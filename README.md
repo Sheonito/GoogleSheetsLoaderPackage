@@ -1,5 +1,8 @@
 # GoogleSheetsLoaderPackage
 
+## Code
+---
+
 <details>
   <summary>Editor</summary>
 
@@ -18,3 +21,6 @@
 
 
 </details>
+
+## Installation
+---
