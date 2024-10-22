@@ -4,6 +4,14 @@
 - Easy to use <br>
 <img src=https://github.com/user-attachments/assets/7ca07883-3f30-4a38-80eb-902d4776429d alt="GoogleSheets Loader" width="400"/> 
 
+## Getting started
+  ### 1. Installation <br>
+    https://github.com/Sheonito/GoogleSheetsLoaderPackage.git
+  - Unity -> Window -> PackageManager -> Add package from git URL > Add https://github.com/Sheonito/GoogleSheetsLoaderPackage.git
+        
+  ### 2. Open and Load
+  ![Manual](https://github.com/user-attachments/assets/5eee069c-2b1a-464e-b48c-6de35ed20f2f)
+        
 ## Code
 <details>
   <summary>Editor</summary>
@@ -23,13 +31,3 @@
 
 
 </details>
-
-## Getting started
-  ### 1. Installation <br>
-    https://github.com/Sheonito/GoogleSheetsLoaderPackage.git
-  - Unity -> Window -> PackageManager -> Add package from git URL > Add https://github.com/Sheonito/GoogleSheetsLoaderPackage.git
-        
-  ### 2. Open and Load
-  <br>
-        ![Manual](https://github.com/user-attachments/assets/5eee069c-2b1a-464e-b48c-6de35ed20f2f)
-        
