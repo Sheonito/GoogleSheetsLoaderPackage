@@ -1,11 +1,8 @@
 # GoogleSheetsLoaderPackage
-
-<img src=https://github.com/user-attachments/assets/7ca07883-3f30-4a38-80eb-902d4776429d alt="GoogleSheets Loader" width="400"/> <br>
 - No need to create Google Cloud Platform key.
 - No need to use Apps Script either.
 - Easy to use
-
-
+<img src=https://github.com/user-attachments/assets/7ca07883-3f30-4a38-80eb-902d4776429d alt="GoogleSheets Loader" width="400"/> <br>
 
 ## Code
 <details>
