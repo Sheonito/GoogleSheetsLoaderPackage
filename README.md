@@ -11,9 +11,9 @@
         
   ### 2. Open and Load
   ![Manual](https://github.com/user-attachments/assets/5eee069c-2b1a-464e-b48c-6de35ed20f2f)
-    1. Set uid <br>
-    2. Add gid <br>
-    3. Load
+  1. Set uid
+  2. Add gid
+  3. Load
         
 ## Code
 <details>
